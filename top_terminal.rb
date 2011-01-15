@@ -40,8 +40,8 @@ class TopTerminal
   def self.app_key; @@app_key ;end
   def self.app_secret; @@app_secret ;end
   
-  @@app_key = '12132760'
-  @@app_secret = 'e26cee20c18b7d70160337e027f2c651'
+  @@app_key = 'xxxxxx'
+  @@app_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   # app 请求top 返回的文本格式（本人测试中遇到了Crack无法解析特定json字符串的问题）
   @@app_accept_format = 'xml'
   # top 版本
